@@ -2,6 +2,15 @@
 
 融合东方山水留白、现代编辑设计、抽象色域绘画与纸艺质感，生成一张高完成度的中式极简艺术展览海报。远看极简，近看有层次。
 
+
+## 作品展示 · Gallery
+
+| | | |
+|---|---|---|
+| <img src="assets/01.png" width="260"> | <img src="assets/02.png" width="260"> | <img src="assets/03.png" width="260"> |
+| <img src="assets/04.png" width="260"> | <img src="assets/05.png" width="260"> | <img src="assets/06.png" width="260"> |
+| <img src="assets/07.png" width="260"> | <img src="assets/08.png" width="260"> |  |
+
 ## 它能做什么
 - 暖象牙白艺术纸底 + 一块不规则主色域（约 40–55%），矿物颜料 / 水粉 / 丝网印刷质感
 - 色域与留白交界处的极细墨线地景，配极小的微型叙事
